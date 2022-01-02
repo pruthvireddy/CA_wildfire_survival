@@ -2,10 +2,10 @@
 
 ### Team
 
-	+ Garda Ramadhito
-	+ Shen Xin
-	+ Hamidah Alatas
-	+ Pruthvi Panati
+- [Garda Ramadhito](https://github.com/mramadhito)
+- [Shen Xin](https://github.com/Shen-dot-Xin)
+- [Hamidah Alatas](https://github.com/hamidahalatas)
+- [Pruthvi Reddy Panati](https://github.com/pruthvireddy)
 
 **Winners (1st place)- Columbia University Data Science Society(CDSS) Hackathon '21**
 
