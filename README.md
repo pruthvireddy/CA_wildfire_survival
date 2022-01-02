@@ -1,6 +1,11 @@
-# CA_wildfire_survival
-Californian Wildfire: A survival Analysis 
+# CA_wildfire_survival: A survival Analysis 
 
+### Team
+
+	+ Garda Ramadhito
+	+ Shen Xin
+	+ Hamidah Alatas
+	+ Pruthvi Panati
 
 **Winners (1st place)- Columbia University Data Science Society(CDSS) Hackathon '21**
 
