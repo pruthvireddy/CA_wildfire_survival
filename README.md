@@ -9,7 +9,9 @@
 
 **Winners (1st place)- Columbia University Data Science Society(CDSS) Hackathon '21**
 
+### Analysis
 
+In this analysis, we tackled the problem of the 2020 California wildfires on air quality. Using survival analysis techniques, we found that in counties affected by major wildfires, the number of days with unhealthy air quality index (AQI) in 2019 strongly correlates with the number of days to recovery (between the start of a wildfire and the first day the AQI returns to 'Good').
 
 ![image](https://user-images.githubusercontent.com/14994526/147885222-b17bcd5e-8a95-461d-bb8f-d37bb3e6560d.png)
 
